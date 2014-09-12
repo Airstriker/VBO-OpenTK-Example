@@ -34,3 +34,9 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+VBO/obj/x86/Debug/VBO.csproj.FileListAbsolute.txt
+VBO/obj/x86/Debug/VBO.csprojResolveAssemblyReference.cache
+VBO/obj/x86/Debug/VBO.exe
+VBO/obj/x86/Debug/VBO.pdb
+VBO.userprefs
